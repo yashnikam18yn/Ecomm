@@ -2,7 +2,7 @@
   "name": "front-end",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yashnikam18yn.github.io/E-Comm_Website",
+  "homepage": "https://yashnikam18yn.github.io/Ecomm",
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
