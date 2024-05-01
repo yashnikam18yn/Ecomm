@@ -14,7 +14,7 @@ export default function Footer() {
     <h2>Contact</h2>
     
     <address>
-      5534 Yash Nikam 9021575657<br></br>
+      5534 Omkar Patil 9021575657<br></br>
           
       <a class="footer__btn" href="mailto:example@gmail.com">Email Us</a>
     </address>
@@ -92,7 +92,7 @@ export default function Footer() {
     <p>&copy; 2023 E-Comm. All rights reserved.</p>
     
     <div class="legal__links">
-      <span>Made By <span class="heart">♥</span> Yash ,Shri ,Raj,Mayur </span>
+      <span>Made By <span class="heart">♥</span> Omkar Patil </span>
     </div>
     <div class="legal__links">
     <a href="/"><WhatsAppIcon/></a> 
